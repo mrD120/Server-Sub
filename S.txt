@@ -1,0 +1,1 @@
+vless://c4b25488-4908-4dc3-ba8f-781e55c6f8c0@fs2.greenetplus.ir:15021?encryption=none&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=ws&path=%2F#%D9%BE%D8%B3%D8%B1%D9%85%20%D8%B5%D9%81%D8%A7%DB%8C%DB%8C
