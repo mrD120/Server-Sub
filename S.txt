@@ -1,1 +1,3 @@
+vless://8e4267e9-a620-4b95-ad94-51aafeaebcdf@sv0001.s1cf122200.workers.dev:443?encryption=none&security=tls&sni=Sv0001.s1cF122200.worKeRS.deV&alpn=http%2F1.1&fp=chrome&type=ws&host=sv0001.s1cf122200.workers.dev&path=%2FeyJqdW5rIjoiNUcwVVJ5NWsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#Server-0001
+
 vless://c4b25488-4908-4dc3-ba8f-781e55c6f8c0@fs2.greenetplus.ir:15021?encryption=none&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=ws&path=%2F#%D9%BE%D8%B3%D8%B1%D9%85%20%D8%B5%D9%81%D8%A7%DB%8C%DB%8C
